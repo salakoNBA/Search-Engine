@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-classes-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-classes-kotlin.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-test-results.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-tmp.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-A_good_companion.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-Board_game_basics__Player.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-Companion.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-Fix_an_error.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-Fix_me.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Companion_object-Usage.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Enum-Currencies.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Enum-Methods_and_parameters_of_Enum.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Enum-Properties_of_Enum.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Enum-Rainbow_colors.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Enum-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Enum-valueOf___method.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-Time_format.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Find_a_suitable_input.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-What_is_the_result.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
+      <module name="Simple_Search_Engine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
