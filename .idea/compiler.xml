@@ -30,6 +30,12 @@
       <module name="Simple_Search_Engine.Topics-Integers_in_action-Time_format.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_list-Accordance.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_list-Correct_statements.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_list-Initialization_rules.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_list-Kotlin_lists.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_list-Theory.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Relational_operators-Check_the_value.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
